@@ -4,3 +4,4 @@
 - 5-6pm
 ### What terminal command will show you all the content of your current directory?
 - $ `ls`
+
