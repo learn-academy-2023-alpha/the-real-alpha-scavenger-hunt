@@ -1,1 +1,1 @@
-# the-real-alpha-scavenger-hunt
+# The Real Alpha Scavenger Hunt
